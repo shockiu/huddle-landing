@@ -29,7 +29,7 @@ Users should be able to:
 ![Mobil](https://i.imgur.com/fgkwXwW.png)
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/shockiu/huddle-landing)
 - Live Site URL: [Add live site URL here](https://shockiu.github.io/huddle-landing/index.html)
 s
 ### Built with
